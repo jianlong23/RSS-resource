@@ -63,3 +63,6 @@
 
 ## 其他
 * 简书： http://feedmaker.kindle4rss.com/feeds/jianshu.com.xml
+
+## 我用的订阅软件Reeder
+!()[![](http://ww3.sinaimg.cn/large/006tNc79jw1fbdeg5ossmj31kw0vmdpz.jpg)]
